@@ -2,5 +2,5 @@
 ### 多吃点好的 ❤👋
 - :orange_book: 正在学习的大二菜狗
 - :hammer: 实干主义
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat 
+- :ram: 
+- :meat_on_bone: 
